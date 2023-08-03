@@ -6,7 +6,7 @@ categories:
 - Family Medicine
 - Internal Medicine
 tags:
-- Respiratory
+- Infectious Disease
 draft: true
 ---
 Insert summary here.
@@ -23,6 +23,7 @@ Insert summary here.
 ## Constitutional
 - Fever
 - Significant fatigue (lasts several months)
+- Atypical lymphocytosis
 
 ## HEENT
 - Tonsillitis/ pharyngitis w/ or w/o exudate
@@ -30,6 +31,7 @@ Insert summary here.
 
 ## GI
 - W/ or w/o hepatosplenomegaly
+- Transient hepatitis
 
 ## Skin
 - W/ or w/o rash after amoxicillin
