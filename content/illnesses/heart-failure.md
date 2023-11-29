@@ -217,6 +217,10 @@ Heart failure is a dysfunction of either the right or left ventricle, which is d
   - Weight and fitness level modification
 - Treatment of cause
 - Goal directed medical therapy
+  - Beta-blocker
+  - ACEi/ ARB/ ARNi
+  - MRA
+  - SGLT-2
 - Device thereapy
   - Implantable cardioverter-defibrillator
   - Cardiac resynchronization therapy
