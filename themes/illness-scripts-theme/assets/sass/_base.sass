@@ -102,3 +102,26 @@ a
     li
         display: inline
         padding: 0 1em
+
+.pagination
+    display: inline-block
+    list-style-type: none
+
+    .page-item 
+        float: left
+        
+        .page-link
+            padding: 8px 16px
+            border: 1px solid $primary
+            margin: 0 4px
+
+    .active
+        .page-link
+            background-color: $red
+            color: $base
+
+    .disabled
+        .page-link
+            background-color: $disabled-primary
+            color: $disabled-secondary
+            border: 1px solid $disabled-secondary
