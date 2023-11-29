@@ -5,7 +5,7 @@ categories:
 - Pediatrics
 tags:
 - Genetics
-draft: true
+draft: false
 ---
 Down syndrome is a chromosomal condition due to mutations relating to chromosome 21 resulting in intellectual disability and physical abnormalities. It is diagnosed by genetic testing and treated based on manifestations.
 

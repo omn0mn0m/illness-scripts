@@ -5,7 +5,7 @@ categories:
 - Family Medicine
 tags:
 - Dermatology
-draft: true
+draft: false
 ---
 Insert summary here.
 

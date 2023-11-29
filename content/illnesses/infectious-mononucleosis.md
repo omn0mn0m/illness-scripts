@@ -7,7 +7,7 @@ categories:
 - Internal Medicine
 tags:
 - Infectious Disease
-draft: true
+draft: false
 ---
 Insert summary here.
 

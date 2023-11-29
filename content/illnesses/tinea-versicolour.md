@@ -5,7 +5,7 @@ categories:
 - Family Medicine
 tags:
 - Dermatology
-draft: true
+draft: false
 ---
 Tinea versicolour is a fungal skin infection leading to discoloured macules often seen during summer months. It is diagnosed with a KOH preparation and treated with a topical antifungal.
 

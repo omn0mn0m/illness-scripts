@@ -5,7 +5,7 @@ categories:
 - Family Medicine
 tags:
 - Orthopedics
-draft: true
+draft: false
 ---
 Plantar fascitis is the inflammation and degeneration of the plantar aponeurosis, presenting as pain worse with weight-bearing. It is diagnosed clinically and treated with activity modification, stretching, and orthotics.
 

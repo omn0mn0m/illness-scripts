@@ -5,7 +5,7 @@ categories:
 - Pediatrics
 tags:
 - Infectious Disease
-draft: true
+draft: false
 ---
 Erythema infectiousum is a viral infection resulting in a rash. It is diagnosed clinically and treated supportively.
 

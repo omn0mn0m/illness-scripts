@@ -4,7 +4,7 @@ date: 2023-07-05T00:55:47-04:00
 categories: 
 - OB-GYN
 tags:
-draft: true
+draft: false
 ---
 Endometriosis is the implantation of endometrial tissue outside of the uterus, resulting in dysmenorrhea, dyspareunia, and infertility (along with location-specific symptoms). Diagnosis is through direct visualisation and treatment is ovarian suppression and surgery.
 

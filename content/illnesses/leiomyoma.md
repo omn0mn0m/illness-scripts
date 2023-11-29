@@ -5,7 +5,7 @@ categories:
 - OB-GYN
 - Surgery
 tags:
-draft: true
+draft: false
 ---
 Leiomyomas are uterine fibroids that appear on the uterus, causing pain, abnormal uterine bleeding, and urinary issues. They are screened for on bimanual pelvic exam and confirmed with ultrasound or MRI, then treated with NSAIDs, oral contraceptives, or surgery.
 
