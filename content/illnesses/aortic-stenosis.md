@@ -10,7 +10,7 @@ draft: false
 ---
 Aortic stenosis is a valvulopathy due to the aortic valve obstructing blood flow from the left ventricle to the aorta, presenting as syncope, angina, and dyspnea. It is diagnosed with echocardiography and treated in symptomatic patients with an aortic valve replacement.
 
-<!--more -->
+<!--more-->
 # Pathophysiology
 - Valve calcification or scarring
 - Obstructs flow out of left ventricle to aorta -> increased left ventricular pressure

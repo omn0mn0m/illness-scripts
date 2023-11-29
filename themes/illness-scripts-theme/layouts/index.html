@@ -9,9 +9,9 @@
   <p>This is NOT medical advice. I am not a physician. If you are require medical advice, please contact a medical provider like your primary care physician. They probably miss you. :'(</p>
 </div>
 
-{{ $paginator := .Paginate (where .Site.RegularPages "Type" "illnesses") }}
+{{ $paginator := .Paginate (where .Site.RegularPages.ByTitle "Type" "illnesses") }}
 
-{{ range $paginator.Pages.ByTitle }}
+{{ range $paginator.Pages }}
 <div class="illness">
   <h2 class="illness-title">
     <a href="{{ .Permalink }}">{{ .Title }}</a>
